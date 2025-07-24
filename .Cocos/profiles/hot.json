@@ -1,0 +1,17 @@
+{
+  "releaseKey": "20241108150804-9d1ba7b11b3ba956",
+  "configurations": {
+    "creator.2d_feature": "true",
+    "creator.3d_feature": "true",
+    "creator.hmi": "true",
+    "creator.dashboard": "true"
+  },
+  "namespaceKeys": {
+    "creator": {
+      "2d_feature": "20240129144317-2c95a7b11b3ba94e",
+      "3d_feature": "20240902150239-9db4a7b11b3ba954",
+      "hmi": "20240515153526-92aca7b11b3ba950",
+      "dashboard": "20241108154031-02bca7b11b9db014"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "editor": {
+    "Creator": [],
+    "Creator3D": [
+      {
+        "type": "Creator3D",
+        "version": "3.8.5",
+        "ctime": 0,
+        "file": "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5\\CocosCreator.exe",
+        "url": "https://download.cocos.com/CocosCreator/v3.8.5/CocosCreator-v3.8.5-win-122116.zip",
+        "progress": "finish",
+        "state": "success",
+        "percent": 1,
+        "downloadWay": "axios-slice",
+        "unzipDist": "C:\\ProgramData\\cocos\\editors\\Creator\\3.8.5"
+      }
+    ],
+    "persona": [],
+    "hmi": []
+  }
+}

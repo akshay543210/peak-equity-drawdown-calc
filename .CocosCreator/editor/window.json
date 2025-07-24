@@ -1,0 +1,123 @@
+{
+  "version": 1,
+  "defaultZoomLevel": 0,
+  "windows": [
+    {
+      "uuid": "fe05ed07-8eef-4a65-b9e8-b454d9488cb5",
+      "url": "main.html",
+      "userData": {
+        "layout": {
+          "version": 1,
+          "layout": {
+            "min-width": 900,
+            "min-height": 450,
+            "direction": "row",
+            "percent": 1,
+            "minimize": false,
+            "children": [
+              {
+                "min-width": 200,
+                "min-height": 400,
+                "direction": "column",
+                "percent": 0.25,
+                "minimize": false,
+                "children": [
+                  {
+                    "min-width": 200,
+                    "min-height": 200,
+                    "direction": "none",
+                    "percent": 0.5,
+                    "minimize": false,
+                    "active": "hierarchy",
+                    "panels": [
+                      "hierarchy"
+                    ]
+                  },
+                  {
+                    "min-width": 200,
+                    "min-height": 200,
+                    "direction": "none",
+                    "percent": 0.5,
+                    "minimize": false,
+                    "active": "assets",
+                    "panels": [
+                      "assets"
+                    ]
+                  }
+                ]
+              },
+              {
+                "min-width": 400,
+                "min-height": 450,
+                "direction": "column",
+                "percent": 0.5,
+                "minimize": false,
+                "children": [
+                  {
+                    "min-width": 400,
+                    "min-height": 300,
+                    "direction": "none",
+                    "percent": 0.7,
+                    "minimize": false,
+                    "active": "scene",
+                    "panels": [
+                      "scene"
+                    ]
+                  },
+                  {
+                    "min-width": 200,
+                    "min-height": 150,
+                    "direction": "none",
+                    "percent": 0.3,
+                    "minimize": false,
+                    "active": "assets.preview",
+                    "panels": [
+                      "assets.preview",
+                      "console",
+                      "animator",
+                      "animation-graph"
+                    ]
+                  }
+                ]
+              },
+              {
+                "min-width": 300,
+                "min-height": 200,
+                "direction": "none",
+                "percent": 0.25,
+                "minimize": false,
+                "active": "inspector",
+                "panels": [
+                  "inspector",
+                  "cocos-service"
+                ]
+              }
+            ]
+          }
+        }
+      },
+      "options": {
+        "center": true,
+        "width": 1100,
+        "height": 700,
+        "menuBarVisibility": true,
+        "webPreferences": {
+          "nodeIntegration": true,
+          "nodeIntegrationInWorker": true,
+          "webviewTag": true,
+          "enableRemoteModule": true,
+          "contextIsolation": false,
+          "backgroundThrottling": false,
+          "zoomFactor": 1,
+          "show": true
+        }
+      },
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 728
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "products": {
+    "en": [
+      {
+        "name": "Cocos Creator",
+        "desc": "High-performance, lightweight 2D and 3D game engine",
+        "identifier": "creator",
+        "introduction_link": "https://www.cocos.com/en/creator",
+        "agreement_link": "https://download-cn.cocos.com/CocosDashboard/md/2023-08-07/115/35c3191fbef7470284623e293b472191/35c3191fbef7470284623e293b472191.md",
+        "agreement_version": "1.0.0",
+        "allow_download": true,
+        "apply_status": 0,
+        "version_update_way": 1,
+        "sub_identifiers": [],
+        "latest_version": "3.8.5",
+        "latest_download_url": "https://download.cocos.com/CocosCreator/v3.8.5/CocosCreator-v3.8.5-win-122116.zip",
+        "latest_download_md5": ""
+      }
+    ]
+  }
+}
